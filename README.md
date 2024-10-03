@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp7717992.png)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Rahul Goswami</h1>
 <h3 align="center">A passionate frontend developer from India, New Delhi</h3>
 <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="gif" width="400"  align="right"/>
