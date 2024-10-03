@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpapercave.com/wp/wp7717992.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rahul Goswami</h1>
 <h3 align="center">A passionate frontend developer from India, New Delhi</h3>
-<img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" alt="gif" width="400" height="400" align="right"/>
+<img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" alt="gif" width="400"  align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=go-rahul-go&label=Profile%20views&color=0e75b6&style=flat" alt="go-rahul-go" /> </p>
 
 - 🔭 I’m currently working on [material-ui](https://github.com/go-rahul-go/quicknotes-with-material-UI)
