@@ -4,8 +4,6 @@
 <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="gif" width="400"  align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=go-rahul-go&label=Profile%20views&color=0e75b6&style=flat" alt="go-rahul-go" /> </p>
 
-- 🔭 I’m currently working on Jest
-
 - 👨‍💻 All of my projects are available at [https://rahul-4-react.vercel.app/](https://rahul-4-react.vercel.app/)
 
 - 💬 Ask me about **React, Redux, CSS**
